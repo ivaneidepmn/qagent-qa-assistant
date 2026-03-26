@@ -1,0 +1,22 @@
+{
+  "name": "qagent-qa-assistant",
+  "version": "1.0.0",
+  "description": "Assistente de apoio à estratégia de testes para QA, com XState.",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "keywords": [
+    "qa",
+    "xstate",
+    "chatbot",
+    "testing",
+    "state-machine"
+  ],
+  "author": "Ivaneide Pires Monteiro do Nascimento",
+  "license": "MIT",
+  "dependencies": {
+    "prompt-sync": "^4.2.0",
+    "xstate": "^5.18.2"
+  }
+}
