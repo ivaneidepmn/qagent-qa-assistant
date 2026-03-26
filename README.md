@@ -181,4 +181,3 @@ QAgent explores the transformation of QA knowledge into:
 * scalable validation frameworks
 
 The long-term vision aligns with the emergence of **AI-augmented Quality Engineering practices**.
-
