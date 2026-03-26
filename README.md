@@ -1,6 +1,5 @@
-```markdown
 <p align="center">
-  <img src="./banner-qagent.png" width="100%" />
+  <img src="banner-qagent.png" width="100%" alt="QAgent QA Assistant Banner" />
 </p>
 
 <h1 align="center">🧠 QAgent QA Assistant</h1>
@@ -10,11 +9,11 @@ AI-Driven Test Strategy Assistant · Quality Engineering Decision Engine · Conv
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/Architecture-State%20Machine-blueviolet" />
-<img src="https://img.shields.io/badge/Testing-AI%20Assisted%20Testing-0aa2c0" />
-<img src="https://img.shields.io/badge/Quality-Risk%20Based%20Strategy-ff9800" />
-<img src="https://img.shields.io/badge/Engineering-Quality%20Engineering-success" />
-<img src="https://img.shields.io/badge/Automation-Decision%20Support%20Engine-informational" />
+  <img src="https://img.shields.io/badge/Architecture-State%20Machine-blueviolet" />
+  <img src="https://img.shields.io/badge/Testing-AI%20Assisted%20Testing-0aa2c0" />
+  <img src="https://img.shields.io/badge/Quality-Risk%20Based%20Strategy-ff9800" />
+  <img src="https://img.shields.io/badge/Engineering-Quality%20Engineering-success" />
+  <img src="https://img.shields.io/badge/Automation-Decision%20Support%20Engine-informational" />
 </p>
 
 ---
@@ -25,11 +24,11 @@ QAgent QA Assistant is an experimental intelligent system designed to support so
 
 The assistant receives a development task and helps QA professionals:
 
-- identify delivery risk  
-- define validation strategy  
-- prioritize testing scope  
-- determine necessary evidence  
-- anticipate regression impact  
+- identify delivery risk
+- define validation strategy
+- prioritize testing scope
+- determine necessary evidence
+- anticipate regression impact
 
 This initiative explores the evolution from **test execution mindset → quality engineering mindset**.
 
@@ -41,11 +40,11 @@ The assistant simulates senior-level reasoning by applying structured rules comb
 
 Core principles:
 
-- Risk-based validation  
-- Conversational UX testing awareness  
-- Integration impact detection  
-- Evidence-oriented testing  
-- Regression intelligence  
+- Risk-based validation
+- Conversational UX testing awareness
+- Integration impact detection
+- Evidence-oriented testing
+- Regression intelligence
 
 The project represents an early step toward **AI copilots for Quality Engineering**.
 
@@ -53,23 +52,18 @@ The project represents an early step toward **AI copilots for Quality Engineerin
 
 ## ⚙️ MVP Architecture
 
-```
-
+```text
 qagent-qa-assistant/
 │
 ├── package.json
 └── src/
-├── index.js
-├── machine/
-│   └── qaAssistantMachine.js
-├── rules/
-│   └── recommendationEngine.js
-└── data/
-└── testCatalog.js
-
-````
-
----
+    ├── index.js
+    ├── machine/
+    │   └── qaAssistantMachine.js
+    ├── rules/
+    │   └── recommendationEngine.js
+    └── data/
+        └── testCatalog.js
 
 ## 🔄 Decision Flow Architecture
 
